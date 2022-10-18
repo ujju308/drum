@@ -15,7 +15,7 @@ function makeSound(key){
            audio.play();
            break;
         case "a":
-            var audio = new Audio("https://github.com/ujju308/drum/raw/main/tom-1.mp3");
+            var audio = new Audio("https://github.com/ujju308/drum/raw/main/tom-2.mp3");
             audio.play();
             break;
             case "s":
