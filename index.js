@@ -15,26 +15,26 @@ function makeSound(key){
            audio.play();
            break;
         case "a":
-            var audio = new Audio("https://github.com/ujju308/drum/blob/main/tom-1.mp3");
+            var audio = new Audio("https://github.com/ujju308/drum/raw/main/tom-1.mp3");
             audio.play();
             break;
             case "s":
-                var audio = new Audio("https://github.com/ujju308/drum/blob/main/tom-3.mp3");
+                var audio = new Audio("https://github.com/ujju308/drum/raw/main/tom-3.mp3");
                 audio.play();
                 break;
                 case "d":
-                    var audio = new Audio("https://github.com/ujju308/drum/blob/main/tom-4.mp3");
+                    var audio = new Audio("https://github.com/ujju308/drum/raw/main/tom-4.mp3");
                     audio.play();
                     break;
                     case "j":
-                        var audio = new Audio("https://github.com/ujju308/drum/blob/main/snare.mp3");
+                        var audio = new Audio("https://github.com/ujju308/drum/raw/main/snare.mp3");
                         audio.play();
                         break;
                     case "k":
-                        var audio = new Audio("https://github.com/ujju308/drum/blob/main/kick-bass.mp3");
+                        var audio = new Audio("https://github.com/ujju308/drum/raw/main/kick-bass.mp3");
                         audio.play();
                     case "l":
-                        var audio = new Audio("https://github.com/ujju308/drum/blob/main/tom-1.mp3");
+                        var audio = new Audio("https://github.com/ujju308/drum/raw/main/tom-1.mp3");
                         audio.play();
     
            default:
